@@ -10,6 +10,13 @@ styleSheet.textContent = `
   background-color: #FAE6E6;
   box-shadow: inset 6px 0 #CC0000;
   font-size: 1.5rem;
+  }
+
+  @media screen and (max-width: 480px) {
+    .error-card{
+      width: 350px;
+    }
+  }
 `;
 
 const createErrorCard = (error) => {
