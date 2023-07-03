@@ -61,7 +61,7 @@ styleSheet.textContent = `
         color: white;
     }
 }
-@media screen and (max-width: 1124px){
+@media (min-width: 480px) and (max-width: 1124px){
     .label {
         font-size: 27px;
         width: 600px;
