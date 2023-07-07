@@ -37,6 +37,7 @@ async function controlInput(value){
             addingStyle(); // style for the canvas
             removeChild(); // remove error card
             createChart(obj, resizeInput(value)); // create the chart
+            window.scroll(0, 962);
         }
         catch (error){  //catch error
             const errorCard = createErrorCard(error);
