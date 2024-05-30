@@ -18,7 +18,7 @@ where you want :smiley:
 Windows:
 
 ```sh
-git https://github.com/DarioCepele/Lifestyle-S2i.git
+git clone https://github.com/DarioCepele/Lifestyle-S2i.git
 ```
 
 ## Usage example
