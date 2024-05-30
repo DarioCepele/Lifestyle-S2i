@@ -1,5 +1,4 @@
 # Lifestyle
-> Only a simple counter
 
 [![NPM Version][npm-image]][npm-url]
 
